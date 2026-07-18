@@ -1,16 +1,139 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**semmytaju/semmytaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Semmy Wellem Taju**
 
-Here are some ideas to get you started:
+### AI Researcher • Machine Learning • Deep Learning • Bioinformatics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Bioinformatics+Researcher;Open+Source+Learner" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00E5FF&height=180&section=header&text=AI%20Is%20Not%20Magic&fontSize=35&fontColor=ffffff"/>
+
+</div>
+
+---
+
+# 🤖 MY PROFILE
+
+```yaml
+Name         : Semmy Wellem Taju
+Role         : Love to learn about AI
+Affiliation  : Universitas Klabat
+Location     : Indonesia
+
+Research Areas:
+  - Artificial Intelligence
+  - Machine Learning
+  - Deep Learning
+  - Natural Language Processing
+  - Bioinformatics
+  - Computer Vision
+```
+
+---
+
+# 🔬 Research Interests
+
+- 🧠 Artificial Intelligence
+- 🤖 Machine Learning
+- 🔥 Deep Learning
+- 🧬 Bioinformatics
+- 📖 Natural Language Processing
+- 🧪 Biomedical AI
+- ⚙️ Intelligent Information Systems
+
+---
+
+# 📊 Research Metrics
+
+| Metric | Value |
+|---------|------:|
+| Citations | 356 |
+| h-index | 9 |
+| i10-index | 8 |
+
+---
+
+# 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,php,javascript,html,css,r,bash"/>
+</p>
+
+### AI & Data Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,laravel,nodejs"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,postgres,mongodb"/>
+</p>
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,github,docker,linux,git"/>
+</p>
+
+---
+
+# 📚 Featured Publications
+
+- Deep Learning Approach for Classifying Ion Transporters
+- GT-Finder: Transformer + BERT for Glucose Transporter Identification
+- DeepTrans: CNN-based Identification of Ion Transporters
+- BERT-based Functional Classification of Active Transport Proteins
+- LSTM-Based Workload Prediction
+
+---
+
+
+# 🌐 Connect With Me
+
+<p>
+
+<a href="https://scholar.google.com/citations?user=EkL7iUQAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Research Philosophy
+
+> *"Artificial Intelligence is not just about building models, but about creating intelligent solutions that positively impact science, healthcare, and society. AI is not magic; it's math and human ingenuity."*
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00E5FF)
+
+### Thanks for visiting 👨‍💻
+
+</div>
