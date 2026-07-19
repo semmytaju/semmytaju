@@ -1,4 +1,10 @@
+
 <div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00E5FF&height=180&section=header&text=AI%20Is%20Not%20Magic&fontSize=35&fontColor=ffffff"
+  width="100%"
+  />
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Semmy Wellem Taju**
 
@@ -8,8 +14,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Researcher;Machine+Learning+Engineer;Deep+Learning+Enthusiast;Bioinformatics+Researcher;Open+Source+Learner" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00E5FF&height=180&section=header&text=AI%20Is%20Not%20Magic&fontSize=35&fontColor=ffffff"/>
 
+![](https://komarev.com/ghpvc/?username=semmytaju&style=for-the-badge&color=00E5FF)
 </div>
 
 ---
@@ -131,8 +137,6 @@ Research Areas:
 ---
 
 <div align="center">
-
-![](https://komarev.com/ghpvc/?username=semmytaju&style=for-the-badge&color=00E5FF)
 
 ### Thanks for visiting 👨‍💻
 
