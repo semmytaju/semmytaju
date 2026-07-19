@@ -112,7 +112,7 @@ Research Areas:
 <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://id.linkedin.com/in/semmywt">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
