@@ -132,7 +132,7 @@ Research Areas:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00E5FF)
+![](https://komarev.com/ghpvc/?username=semmytaju&style=for-the-badge&color=00E5FF)
 
 ### Thanks for visiting 👨‍💻
 
