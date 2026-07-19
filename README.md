@@ -130,9 +130,9 @@ Research Areas:
 
 ---
 
-# 💡 Research Philosophy
+### 💡 **RESEARCH PHILOSOPHY**
 
-> *"Artificial Intelligence is not just about building models, but about creating intelligent solutions that positively impact science, healthcare, and society. AI is not magic; it's math and human ingenuity."*
+> *"Artificial Intelligence is not magic — it is mathematics, data, and human ingenuity working together to solve the most complex problems in science and healthcare."*
 
 ---
 
