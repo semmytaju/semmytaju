@@ -15,7 +15,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=semmytaju&style=for-the-badge&color=00E5FF)
+![](https://komarev.com/ghpvc/?username=semmytaju&style=flat&color=00E5FF)
 </div>
 
 ---
