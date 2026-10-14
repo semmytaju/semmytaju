@@ -16,6 +16,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=semmytaju&style=flat&color=00E5FF)
+![](https://komarev.com/ghpvc/?username=semmytaju&style=flat&color=00E5FF&t=1)
 </div>
 
 ---
